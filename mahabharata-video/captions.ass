@@ -1,0 +1,163 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Liberation Serif,122,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,1,0,0,100,100,0,0,1,3,2,2,60,60,560,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.08,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Okay so there's
+Dialogue: 0,0:00:01.08,0:00:01.90,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}something in the
+Dialogue: 0,0:00:01.90,0:00:02.94,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Mahabharata that's more
+Dialogue: 0,0:00:02.94,0:00:04.26,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}dangerous than any
+Dialogue: 0,0:00:04.26,0:00:04.61,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}villain
+Dialogue: 0,0:00:04.52,0:00:05.62,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And honestly?
+Dialogue: 0,0:00:05.62,0:00:06.12,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Most of us
+Dialogue: 0,0:00:06.12,0:00:06.70,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}have it
+Dialogue: 0,0:00:06.70,0:00:07.43,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Stay till the
+Dialogue: 0,0:00:07.43,0:00:07.94,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}end, I'll tell
+Dialogue: 0,0:00:07.94,0:00:08.30,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}you what it
+Dialogue: 0,0:00:08.30,0:00:08.72,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}is
+Dialogue: 0,0:00:08.72,0:00:09.10,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}So I was
+Dialogue: 0,0:00:09.10,0:00:09.90,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}reading this Substack
+Dialogue: 0,0:00:09.90,0:00:11.04,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}article, The Mahabharata
+Dialogue: 0,0:00:11.04,0:00:11.48,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}and its Flawed
+Dialogue: 0,0:00:11.48,0:00:12.67,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Heroes by Sidhima
+Dialogue: 0,0:00:12.67,0:00:13.56,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Shekhawat, and her
+Dialogue: 0,0:00:13.56,0:00:14.14,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}whole point is
+Dialogue: 0,0:00:14.14,0:00:15.04,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}basically this
+Dialogue: 0,0:00:15.04,0:00:15.86,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}the epic doesn't
+Dialogue: 0,0:00:15.86,0:00:16.38,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}tell you how
+Dialogue: 0,0:00:16.38,0:00:17.02,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}to live
+Dialogue: 0,0:00:17.02,0:00:17.64,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}It shows you
+Dialogue: 0,0:00:17.64,0:00:18.58,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}how complicated living
+Dialogue: 0,0:00:18.58,0:00:19.24,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}is
+Dialogue: 0,0:00:19.24,0:00:19.86,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}It's not good
+Dialogue: 0,0:00:19.86,0:00:20.84,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}versus evil
+Dialogue: 0,0:00:20.84,0:00:22.18,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Everyone has reasons
+Dialogue: 0,0:00:22.18,0:00:23.44,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Everyone has wounds
+Dialogue: 0,0:00:23.44,0:00:23.90,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}She uses the
+Dialogue: 0,0:00:23.90,0:00:25.02,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}characters to explain
+Dialogue: 0,0:00:25.02,0:00:25.37,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}it
+Dialogue: 0,0:00:25.26,0:00:25.96,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And every one
+Dialogue: 0,0:00:25.96,0:00:26.47,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}of them teaches
+Dialogue: 0,0:00:26.47,0:00:26.92,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}us something
+Dialogue: 0,0:00:26.92,0:00:27.86,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Bhishma
+Dialogue: 0,0:00:27.86,0:00:28.30,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}He makes a
+Dialogue: 0,0:00:28.30,0:00:28.88,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}vow, right?
+Dialogue: 0,0:00:28.88,0:00:29.32,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And it turns
+Dialogue: 0,0:00:29.32,0:00:30.34,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}into silence while
+Dialogue: 0,0:00:30.34,0:00:31.40,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}injustice is happening
+Dialogue: 0,0:00:31.40,0:00:31.94,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}right in front
+Dialogue: 0,0:00:31.94,0:00:32.29,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}of him
+Dialogue: 0,0:00:32.27,0:00:32.62,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Lesson one
+Dialogue: 0,0:00:32.60,0:00:33.48,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}staying neutral isn't
+Dialogue: 0,0:00:33.48,0:00:34.04,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}innocent
+Dialogue: 0,0:00:34.04,0:00:34.56,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}It's a choice
+Dialogue: 0,0:00:34.56,0:00:35.38,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And it has
+Dialogue: 0,0:00:35.38,0:00:36.13,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}consequences
+Dialogue: 0,0:00:36.13,0:00:36.88,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Karna
+Dialogue: 0,0:00:36.88,0:00:37.48,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Brilliant
+Dialogue: 0,0:00:37.48,0:00:38.14,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Generous
+Dialogue: 0,0:00:38.14,0:00:38.72,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}But he's so
+Dialogue: 0,0:00:38.72,0:00:39.28,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}tied to an
+Dialogue: 0,0:00:39.28,0:00:40.38,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}old injustice that
+Dialogue: 0,0:00:40.38,0:00:41.06,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}he stays loyal
+Dialogue: 0,0:00:41.06,0:00:41.50,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}to the wrong
+Dialogue: 0,0:00:41.50,0:00:41.85,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}side
+Dialogue: 0,0:00:41.75,0:00:42.26,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Lesson two
+Dialogue: 0,0:00:42.26,0:00:43.20,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}unresolved pain can
+Dialogue: 0,0:00:43.20,0:00:44.36,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}quietly become who
+Dialogue: 0,0:00:44.36,0:00:45.08,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}you are
+Dialogue: 0,0:00:45.08,0:00:45.66,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Yudhishthira
+Dialogue: 0,0:00:45.66,0:00:46.40,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}He follows dharma
+Dialogue: 0,0:00:46.40,0:00:47.64,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}so rigidly that
+Dialogue: 0,0:00:47.64,0:00:48.22,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}it freezes him
+Dialogue: 0,0:00:48.22,0:00:48.66,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Lesson three
+Dialogue: 0,0:00:48.66,0:00:49.60,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}ethics without courage
+Dialogue: 0,0:00:49.60,0:00:50.26,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}can do real
+Dialogue: 0,0:00:50.26,0:00:51.00,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}harm
+Dialogue: 0,0:00:51.00,0:00:51.55,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}But then there
+Dialogue: 0,0:00:51.55,0:00:52.10,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}are the ones
+Dialogue: 0,0:00:52.10,0:00:52.94,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}who did nothing
+Dialogue: 0,0:00:52.94,0:00:53.65,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}wrong
+Dialogue: 0,0:00:53.65,0:00:54.35,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Eklavya
+Dialogue: 0,0:00:54.35,0:00:55.78,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Disciplined, gifted
+Dialogue: 0,0:00:55.78,0:00:56.52,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}punished because his
+Dialogue: 0,0:00:56.52,0:00:57.38,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}talent threatened other
+Dialogue: 0,0:00:57.38,0:00:58.02,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}people
+Dialogue: 0,0:00:58.02,0:00:58.50,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}He loses his
+Dialogue: 0,0:00:58.50,0:00:58.85,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}thumb
+Dialogue: 0,0:00:58.70,0:00:59.50,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And Draupadi
+Dialogue: 0,0:00:59.50,0:01:00.70,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Humiliated in public
+Dialogue: 0,0:01:00.70,0:01:01.48,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}by the very
+Dialogue: 0,0:01:01.48,0:01:02.34,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}people who should've
+Dialogue: 0,0:01:02.34,0:01:03.24,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}protected her
+Dialogue: 0,0:01:03.24,0:01:03.96,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And afterwards?
+Dialogue: 0,0:01:03.96,0:01:04.60,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}She gets blamed
+Dialogue: 0,0:01:04.60,0:01:05.42,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}for the war
+Dialogue: 0,0:01:05.42,0:01:06.26,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Think about that
+Dialogue: 0,0:01:06.26,0:01:07.16,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Wronged and then
+Dialogue: 0,0:01:07.16,0:01:07.88,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}blamed
+Dialogue: 0,0:01:07.88,0:01:08.42,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}So why did
+Dialogue: 0,0:01:08.42,0:01:09.10,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}the war even
+Dialogue: 0,0:01:09.10,0:01:09.74,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}happen?
+Dialogue: 0,0:01:09.74,0:01:10.58,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Because both sides
+Dialogue: 0,0:01:10.58,0:01:11.64,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}were completely sure
+Dialogue: 0,0:01:11.64,0:01:12.60,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}they were right
+Dialogue: 0,0:01:12.60,0:01:13.28,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}That's the dangerous
+Dialogue: 0,0:01:13.28,0:01:13.78,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}thing I told
+Dialogue: 0,0:01:13.78,0:01:14.62,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}you about
+Dialogue: 0,0:01:14.62,0:01:15.48,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Moral certainty
+Dialogue: 0,0:01:15.48,0:01:16.50,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}She says it
+Dialogue: 0,0:01:16.50,0:01:17.06,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}can be more
+Dialogue: 0,0:01:17.06,0:01:18.12,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}dangerous than moral
+Dialogue: 0,0:01:18.12,0:01:18.96,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}failure
+Dialogue: 0,0:01:18.96,0:01:19.74,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Both sides believed
+Dialogue: 0,0:01:19.74,0:01:20.32,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}they were fighting
+Dialogue: 0,0:01:20.32,0:01:20.96,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}for what was
+Dialogue: 0,0:01:20.96,0:01:21.62,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}right
+Dialogue: 0,0:01:21.62,0:01:22.24,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Neither would back
+Dialogue: 0,0:01:22.24,0:01:22.59,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}down
+Dialogue: 0,0:01:22.56,0:01:23.30,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}And when it
+Dialogue: 0,0:01:23.30,0:01:24.56,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}was over everyone
+Dialogue: 0,0:01:24.56,0:01:25.44,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}was just tired
+Dialogue: 0,0:01:25.44,0:01:26.50,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}and hurt
+Dialogue: 0,0:01:26.50,0:01:27.20,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}No winners
+Dialogue: 0,0:01:27.20,0:01:28.26,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Just grief
+Dialogue: 0,0:01:28.26,0:01:28.76,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}So the lesson
+Dialogue: 0,0:01:28.76,0:01:29.40,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}isn't pick the
+Dialogue: 0,0:01:29.40,0:01:29.98,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}right side
+Dialogue: 0,0:01:29.98,0:01:31.02,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}because everyone thought
+Dialogue: 0,0:01:31.02,0:01:31.92,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}they had
+Dialogue: 0,0:01:31.92,0:01:32.82,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}The lesson is
+Dialogue: 0,0:01:32.82,0:01:33.76,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}be careful how
+Dialogue: 0,0:01:33.76,0:01:34.76,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}sure you are
+Dialogue: 0,0:01:34.76,0:01:35.72,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Even Krishna bent
+Dialogue: 0,0:01:35.72,0:01:36.36,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}the rules to
+Dialogue: 0,0:01:36.36,0:01:37.00,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}stop a bigger
+Dialogue: 0,0:01:37.00,0:01:37.76,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}harm
+Dialogue: 0,0:01:37.76,0:01:38.51,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Life's lived in
+Dialogue: 0,0:01:38.51,0:01:38.86,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}the grey
+Dialogue: 0,0:01:38.82,0:01:40.05,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}and good intentions
+Dialogue: 0,0:01:40.05,0:01:42.00,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}don't erase consequences
+Dialogue: 0,0:01:42.00,0:01:43.06,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}That's why we
+Dialogue: 0,0:01:43.06,0:01:43.88,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}keep coming back
+Dialogue: 0,0:01:43.88,0:01:44.80,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}to this story
+Dialogue: 0,0:01:44.80,0:01:45.70,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}It doesn't comfort
+Dialogue: 0,0:01:45.70,0:01:46.22,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}us
+Dialogue: 0,0:01:46.22,0:01:47.68,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}It understands us
+Dialogue: 0,0:01:47.68,0:01:48.30,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}So if you've
+Dialogue: 0,0:01:48.30,0:01:49.40,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}ever been wronged
+Dialogue: 0,0:01:49.40,0:01:50.02,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}and then blamed
+Dialogue: 0,0:01:50.02,0:01:50.56,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}for it
+Dialogue: 0,0:01:50.56,0:01:51.60,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}this story sees
+Dialogue: 0,0:01:51.60,0:01:52.00,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}you
+Dialogue: 0,0:01:52.00,0:01:52.96,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Follow, and I'll
+Dialogue: 0,0:01:52.96,0:01:53.56,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}bring you more
+Dialogue: 0,0:01:53.56,0:01:54.34,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}Substack stories like
+Dialogue: 0,0:01:54.34,0:01:54.69,Cap,,0,0,0,,{\fad(90,60)\t(0,160,\fscx104\fscy104)\t(160,320,\fscx100\fscy100)}this
