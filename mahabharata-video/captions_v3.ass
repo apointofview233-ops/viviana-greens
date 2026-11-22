@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Inter ExtraBold,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,2,2,60,60,235,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.30,Cap,,0,0,0,,{\fad(70,50)}Okay so there's something
+Dialogue: 0,0:00:01.30,0:00:02.76,Cap,,0,0,0,,{\fad(70,50)}in the Mahabharata that's
+Dialogue: 0,0:00:02.76,0:00:04.52,Cap,,0,0,0,,{\fad(70,50)}more {\c&H4A64F0&}dangerous{\c&HFFFFFF&} than any {\c&H4A64F0&}villain.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.52,0:00:05.62,Cap,,0,0,0,,{\fad(70,50)}And honestly?
+Dialogue: 0,0:00:05.62,0:00:06.70,Cap,,0,0,0,,{\fad(70,50)}Most of us have it.
+Dialogue: 0,0:00:06.70,0:00:07.68,Cap,,0,0,0,,{\fad(70,50)}Stay till the end
+Dialogue: 0,0:00:07.68,0:00:08.30,Cap,,0,0,0,,{\fad(70,50)}I'll tell you what it
+Dialogue: 0,0:00:08.30,0:00:08.72,Cap,,0,0,0,,{\fad(70,50)}is.
+Dialogue: 0,0:00:08.72,0:00:09.62,Cap,,0,0,0,,{\fad(70,50)}So I was reading this
+Dialogue: 0,0:00:09.62,0:00:10.48,Cap,,0,0,0,,{\fad(70,50)}Substack article
+Dialogue: 0,0:00:10.48,0:00:11.48,Cap,,0,0,0,,{\fad(70,50)}The Mahabharata and its Flawed
+Dialogue: 0,0:00:11.48,0:00:13.12,Cap,,0,0,0,,{\fad(70,50)}Heroes by Sidhima Shekhawat
+Dialogue: 0,0:00:13.12,0:00:14.14,Cap,,0,0,0,,{\fad(70,50)}and her whole point is
+Dialogue: 0,0:00:14.14,0:00:15.04,Cap,,0,0,0,,{\fad(70,50)}basically this
+Dialogue: 0,0:00:15.04,0:00:16.22,Cap,,0,0,0,,{\fad(70,50)}the epic doesn't tell you
+Dialogue: 0,0:00:16.22,0:00:17.02,Cap,,0,0,0,,{\fad(70,50)}how to live.
+Dialogue: 0,0:00:17.02,0:00:18.24,Cap,,0,0,0,,{\fad(70,50)}It shows you how complicated
+Dialogue: 0,0:00:18.24,0:00:19.24,Cap,,0,0,0,,{\fad(70,50)}living is.
+Dialogue: 0,0:00:19.24,0:00:20.84,Cap,,0,0,0,,{\fad(70,50)}It's not good versus evil.
+Dialogue: 0,0:00:20.84,0:00:22.18,Cap,,0,0,0,,{\fad(70,50)}Everyone has reasons.
+Dialogue: 0,0:00:22.18,0:00:23.44,Cap,,0,0,0,,{\fad(70,50)}Everyone has {\c&H4A64F0&}wounds.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.44,0:00:24.72,Cap,,0,0,0,,{\fad(70,50)}She uses the characters to
+Dialogue: 0,0:00:24.72,0:00:25.26,Cap,,0,0,0,,{\fad(70,50)}explain it.
+Dialogue: 0,0:00:25.26,0:00:26.24,Cap,,0,0,0,,{\fad(70,50)}And every one of them
+Dialogue: 0,0:00:26.24,0:00:26.92,Cap,,0,0,0,,{\fad(70,50)}teaches us something.
+Dialogue: 0,0:00:26.92,0:00:27.86,Cap,,0,0,0,,{\fad(70,50)}Bhishma.
+Dialogue: 0,0:00:27.86,0:00:28.54,Cap,,0,0,0,,{\fad(70,50)}He makes a vow
+Dialogue: 0,0:00:28.54,0:00:28.89,Cap,,0,0,0,,{\fad(70,50)}right?
+Dialogue: 0,0:00:28.88,0:00:30.20,Cap,,0,0,0,,{\fad(70,50)}And it turns into {\c&H4A64F0&}silence{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.20,0:00:31.40,Cap,,0,0,0,,{\fad(70,50)}while injustice is happening
+Dialogue: 0,0:00:31.40,0:00:32.27,Cap,,0,0,0,,{\fad(70,50)}right in front of him.
+Dialogue: 0,0:00:32.27,0:00:32.62,Cap,,0,0,0,,{\fad(70,50)}Lesson one
+Dialogue: 0,0:00:32.60,0:00:34.04,Cap,,0,0,0,,{\fad(70,50)}staying {\c&H4A64F0&}neutral{\c&HFFFFFF&} isn't {\c&H4A64F0&}innocent.{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.04,0:00:34.56,Cap,,0,0,0,,{\fad(70,50)}It's a {\c&H4A64F0&}choice.{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.56,0:00:36.13,Cap,,0,0,0,,{\fad(70,50)}And it has {\c&H4A64F0&}consequences.{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.13,0:00:36.88,Cap,,0,0,0,,{\fad(70,50)}Karna.
+Dialogue: 0,0:00:36.88,0:00:37.48,Cap,,0,0,0,,{\fad(70,50)}Brilliant.
+Dialogue: 0,0:00:37.48,0:00:38.14,Cap,,0,0,0,,{\fad(70,50)}Generous.
+Dialogue: 0,0:00:38.14,0:00:39.16,Cap,,0,0,0,,{\fad(70,50)}But he's so tied to
+Dialogue: 0,0:00:39.16,0:00:40.52,Cap,,0,0,0,,{\fad(70,50)}an old injustice that he
+Dialogue: 0,0:00:40.52,0:00:41.50,Cap,,0,0,0,,{\fad(70,50)}stays loyal to the {\c&H4A64F0&}wrong{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.50,0:00:41.85,Cap,,0,0,0,,{\fad(70,50)}side.
+Dialogue: 0,0:00:41.75,0:00:42.26,Cap,,0,0,0,,{\fad(70,50)}Lesson two
+Dialogue: 0,0:00:42.26,0:00:43.52,Cap,,0,0,0,,{\fad(70,50)}unresolved pain can quietly
+Dialogue: 0,0:00:43.52,0:00:45.08,Cap,,0,0,0,,{\fad(70,50)}become who you are.
+Dialogue: 0,0:00:45.08,0:00:45.66,Cap,,0,0,0,,{\fad(70,50)}Yudhishthira.
+Dialogue: 0,0:00:45.66,0:00:47.42,Cap,,0,0,0,,{\fad(70,50)}He follows dharma so rigidly
+Dialogue: 0,0:00:47.42,0:00:48.22,Cap,,0,0,0,,{\fad(70,50)}that it {\c&H4A64F0&}freezes{\c&HFFFFFF&} him.
+Dialogue: 0,0:00:48.22,0:00:48.66,Cap,,0,0,0,,{\fad(70,50)}Lesson three
+Dialogue: 0,0:00:48.66,0:00:49.92,Cap,,0,0,0,,{\fad(70,50)}ethics without {\c&H4A64F0&}courage{\c&HFFFFFF&} can
+Dialogue: 0,0:00:49.92,0:00:51.00,Cap,,0,0,0,,{\fad(70,50)}do real harm.
+Dialogue: 0,0:00:51.00,0:00:51.91,Cap,,0,0,0,,{\fad(70,50)}But then there are the
+Dialogue: 0,0:00:51.91,0:00:53.65,Cap,,0,0,0,,{\fad(70,50)}ones who did nothing {\c&H4A64F0&}wrong.{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.65,0:00:54.35,Cap,,0,0,0,,{\fad(70,50)}Eklavya.
+Dialogue: 0,0:00:54.35,0:00:55.06,Cap,,0,0,0,,{\fad(70,50)}Disciplined
+Dialogue: 0,0:00:55.06,0:00:55.78,Cap,,0,0,0,,{\fad(70,50)}gifted
+Dialogue: 0,0:00:55.78,0:00:56.74,Cap,,0,0,0,,{\fad(70,50)}punished because his talent
+Dialogue: 0,0:00:56.74,0:00:58.02,Cap,,0,0,0,,{\fad(70,50)}threatened other people.
+Dialogue: 0,0:00:58.02,0:00:58.70,Cap,,0,0,0,,{\fad(70,50)}He loses his {\c&H4A64F0&}thumb.{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.70,0:00:59.50,Cap,,0,0,0,,{\fad(70,50)}And Draupadi.
+Dialogue: 0,0:00:59.50,0:01:01.22,Cap,,0,0,0,,{\fad(70,50)}Humiliated in public by the
+Dialogue: 0,0:01:01.22,0:01:02.34,Cap,,0,0,0,,{\fad(70,50)}very people who should've
+Dialogue: 0,0:01:02.34,0:01:03.24,Cap,,0,0,0,,{\fad(70,50)}protected her.
+Dialogue: 0,0:01:03.24,0:01:03.96,Cap,,0,0,0,,{\fad(70,50)}And afterwards?
+Dialogue: 0,0:01:03.96,0:01:04.94,Cap,,0,0,0,,{\fad(70,50)}She gets {\c&H4A64F0&}blamed{\c&HFFFFFF&} for the
+Dialogue: 0,0:01:04.94,0:01:05.42,Cap,,0,0,0,,{\fad(70,50)}war.
+Dialogue: 0,0:01:05.42,0:01:06.26,Cap,,0,0,0,,{\fad(70,50)}Think about that.
+Dialogue: 0,0:01:06.26,0:01:07.88,Cap,,0,0,0,,{\fad(70,50)}{\c&H4A64F0&}Wronged{\c&HFFFFFF&} and then {\c&H4A64F0&}blamed.{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.88,0:01:08.85,Cap,,0,0,0,,{\fad(70,50)}So why did the war
+Dialogue: 0,0:01:08.85,0:01:09.74,Cap,,0,0,0,,{\fad(70,50)}even happen?
+Dialogue: 0,0:01:09.74,0:01:11.26,Cap,,0,0,0,,{\fad(70,50)}Because both sides were completely
+Dialogue: 0,0:01:11.26,0:01:12.60,Cap,,0,0,0,,{\fad(70,50)}{\c&H4A64F0&}sure{\c&HFFFFFF&} they were right.
+Dialogue: 0,0:01:12.60,0:01:13.48,Cap,,0,0,0,,{\fad(70,50)}That's the {\c&H4A64F0&}dangerous{\c&HFFFFFF&} thing
+Dialogue: 0,0:01:13.48,0:01:14.62,Cap,,0,0,0,,{\fad(70,50)}I told you about.
+Dialogue: 0,0:01:14.62,0:01:15.48,Cap,,0,0,0,,{\fad(70,50)}Moral {\c&H4A64F0&}certainty.{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.48,0:01:16.82,Cap,,0,0,0,,{\fad(70,50)}She says it can be
+Dialogue: 0,0:01:16.82,0:01:18.12,Cap,,0,0,0,,{\fad(70,50)}more {\c&H4A64F0&}dangerous{\c&HFFFFFF&} than moral
+Dialogue: 0,0:01:18.12,0:01:18.96,Cap,,0,0,0,,{\fad(70,50)}failure.
+Dialogue: 0,0:01:18.96,0:01:20.08,Cap,,0,0,0,,{\fad(70,50)}Both sides believed they were
+Dialogue: 0,0:01:20.08,0:01:21.62,Cap,,0,0,0,,{\fad(70,50)}fighting for what was right.
+Dialogue: 0,0:01:21.62,0:01:22.56,Cap,,0,0,0,,{\fad(70,50)}Neither would back down.
+Dialogue: 0,0:01:22.56,0:01:24.28,Cap,,0,0,0,,{\fad(70,50)}And when it was over
+Dialogue: 0,0:01:24.28,0:01:25.78,Cap,,0,0,0,,{\fad(70,50)}everyone was just tired and
+Dialogue: 0,0:01:25.78,0:01:26.50,Cap,,0,0,0,,{\fad(70,50)}hurt.
+Dialogue: 0,0:01:26.50,0:01:27.20,Cap,,0,0,0,,{\fad(70,50)}No winners.
+Dialogue: 0,0:01:27.20,0:01:28.26,Cap,,0,0,0,,{\fad(70,50)}Just {\c&H4A64F0&}grief.{\c&HFFFFFF&}
+Dialogue: 0,0:01:28.26,0:01:29.24,Cap,,0,0,0,,{\fad(70,50)}So the lesson isn't pick
+Dialogue: 0,0:01:29.24,0:01:29.98,Cap,,0,0,0,,{\fad(70,50)}the right side
+Dialogue: 0,0:01:29.98,0:01:31.24,Cap,,0,0,0,,{\fad(70,50)}because everyone thought they
+Dialogue: 0,0:01:31.24,0:01:31.92,Cap,,0,0,0,,{\fad(70,50)}had.
+Dialogue: 0,0:01:31.92,0:01:32.82,Cap,,0,0,0,,{\fad(70,50)}The lesson is
+Dialogue: 0,0:01:32.82,0:01:34.26,Cap,,0,0,0,,{\fad(70,50)}be careful how {\c&H4A64F0&}sure{\c&HFFFFFF&} you
+Dialogue: 0,0:01:34.26,0:01:34.76,Cap,,0,0,0,,{\fad(70,50)}are.
+Dialogue: 0,0:01:34.76,0:01:36.14,Cap,,0,0,0,,{\fad(70,50)}Even Krishna bent the rules
+Dialogue: 0,0:01:36.14,0:01:37.76,Cap,,0,0,0,,{\fad(70,50)}to stop a bigger harm.
+Dialogue: 0,0:01:37.76,0:01:38.82,Cap,,0,0,0,,{\fad(70,50)}Life's lived in the {\c&H4A64F0&}grey{\c&HFFFFFF&}
+Dialogue: 0,0:01:38.82,0:01:40.58,Cap,,0,0,0,,{\fad(70,50)}and good intentions don't
+Dialogue: 0,0:01:40.58,0:01:42.00,Cap,,0,0,0,,{\fad(70,50)}erase {\c&H4A64F0&}consequences.{\c&HFFFFFF&}
+Dialogue: 0,0:01:42.00,0:01:43.60,Cap,,0,0,0,,{\fad(70,50)}That's why we keep coming
+Dialogue: 0,0:01:43.60,0:01:44.80,Cap,,0,0,0,,{\fad(70,50)}back to this story.
+Dialogue: 0,0:01:44.80,0:01:46.22,Cap,,0,0,0,,{\fad(70,50)}It doesn't comfort us.
+Dialogue: 0,0:01:46.22,0:01:47.68,Cap,,0,0,0,,{\fad(70,50)}It understands us.
+Dialogue: 0,0:01:47.68,0:01:48.80,Cap,,0,0,0,,{\fad(70,50)}So if you've ever been
+Dialogue: 0,0:01:48.80,0:01:50.26,Cap,,0,0,0,,{\fad(70,50)}{\c&H4A64F0&}wronged{\c&HFFFFFF&} and then {\c&H4A64F0&}blamed{\c&HFFFFFF&} for
+Dialogue: 0,0:01:50.26,0:01:50.61,Cap,,0,0,0,,{\fad(70,50)}it
+Dialogue: 0,0:01:50.56,0:01:52.00,Cap,,0,0,0,,{\fad(70,50)}this story sees you.
+Dialogue: 0,0:01:52.00,0:01:52.50,Cap,,0,0,0,,{\fad(70,50)}Follow
+Dialogue: 0,0:01:52.50,0:01:53.56,Cap,,0,0,0,,{\fad(70,50)}and I'll bring you more
+Dialogue: 0,0:01:53.56,0:01:54.70,Cap,,0,0,0,,{\fad(70,50)}Substack stories like this.
